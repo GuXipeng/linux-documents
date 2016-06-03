@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/i2c</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/i2c</h1>
+<pre><a href="index.html?C=N%3BO=A">Name</a>                    <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="index.html?C=S%3BO=D">Size</a>  <hr><a href="../index.html">Parent Directory</a>                             -   
+<a href="busses/index.html">busses/</a>                 23-Nov-2015 01:00    -   
+<a href="muxes/index.html">muxes/</a>                  29-May-2015 13:40    -   
+<a href="slave-eeprom-backend">slave-eeprom-backend</a>    21-Mar-2016 13:00  476   
+<a href="ten-bit-addresses">ten-bit-addresses</a>       13-Sep-2015 00:00  1.5K  
+<a href="old-module-parameters">old-module-parameters</a>   29-May-2015 13:40  1.9K  
+<a href="summary">summary</a>                 29-May-2015 13:40  1.9K  
+<a href="i2c-stub">i2c-stub</a>                29-May-2015 13:40  2.3K  
+<a href="i2c-protocol">i2c-protocol</a>            29-May-2015 13:40  3.0K  
+<a href="fault-codes">fault-codes</a>             29-May-2015 13:40  4.9K  
+<a href="functionality">functionality</a>           29-May-2015 13:40  6.0K  
+<a href="upgrading-clients">upgrading-clients</a>       29-May-2015 13:40  6.8K  
+<a href="slave-interface">slave-interface</a>         13-Sep-2015 00:00  7.3K  
+<a href="dev-interface">dev-interface</a>           21-Mar-2016 13:00  8.7K  
+<a href="smbus-protocol">smbus-protocol</a>          29-May-2015 13:40  9.0K  
+<a href="instantiating-devices">instantiating-devices</a>   29-May-2015 13:40  9.5K  
+<a href="i2c-topology">i2c-topology</a>            28-May-2016 15:00   15K  
+<a href="writing-clients">writing-clients</a>         29-May-2015 13:40   15K  
+<hr></pre>
+</body></html>

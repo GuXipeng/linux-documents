@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/sound/alsa</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/sound/alsa</h1>
+<pre><a href="index.html?C=N%3BO=D">Name</a>                      <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="index.html?C=S%3BO=A">Size</a>  <hr><a href="../index.html">Parent Directory</a>                               -   
+<a href="soc/index.html">soc/</a>                      28-May-2016 15:00    -   
+<a href="ALSA-Configuration.txt">ALSA-Configuration.txt</a>    21-Mar-2016 13:00   80K  
+<a href="Audigy-mixer.txt">Audigy-mixer.txt</a>          29-May-2015 13:40   14K  
+<a href="Audiophile-Usb.txt">Audiophile-Usb.txt</a>        29-May-2015 13:40   17K  
+<a href="Bt87x.txt">Bt87x.txt</a>                 29-May-2015 13:40  2.5K  
+<a href="CMIPCI.txt">CMIPCI.txt</a>                29-May-2015 13:40  9.1K  
+<a href="Channel-Mapping-API.txt">Channel-Mapping-API.txt</a>   29-May-2015 13:40  5.7K  
+<a href="ControlNames.txt">ControlNames.txt</a>          29-May-2015 13:40  2.8K  
+<a href="HD-Audio-Controls.txt">HD-Audio-Controls.txt</a>     29-May-2015 13:40  4.4K  
+<a href="HD-Audio-DP-MST-audio.txt">HD-Audio-DP-MST-audio.txt</a> 21-Mar-2016 13:00  2.2K  
+<a href="HD-Audio-Models.txt">HD-Audio-Models.txt</a>       29-Jun-2015 16:01  8.9K  
+<a href="HD-Audio.txt">HD-Audio.txt</a>              28-May-2016 15:00   36K  
+<a href="Jack-Controls.txt">Jack-Controls.txt</a>         29-Jun-2015 16:01  1.5K  
+<a href="Joystick.txt">Joystick.txt</a>              29-May-2015 13:40  3.3K  
+<a href="MIXART.txt">MIXART.txt</a>                29-May-2015 13:40  3.2K  
+<a href="OSS-Emulation.txt">OSS-Emulation.txt</a>         29-May-2015 13:40   10K  
+<a href="Procfile.txt">Procfile.txt</a>              29-May-2015 13:40  6.5K  
+<a href="README.maya44">README.maya44</a>             29-May-2015 13:40  5.7K  
+<a href="SB-Live-mixer.txt">SB-Live-mixer.txt</a>         29-May-2015 13:40   14K  
+<a href="VIA82xx-mixer.txt">VIA82xx-mixer.txt</a>         29-May-2015 13:40  299   
+<a href="alsa-parameters.txt">alsa-parameters.txt</a>       29-May-2015 13:40  2.1K  
+<a href="compress_offload.txt">compress_offload.txt</a>      28-May-2016 15:00   10K  
+<a href="emu10k1-jack.txt">emu10k1-jack.txt</a>          29-May-2015 13:40  3.2K  
+<a href="hdspm.txt">hdspm.txt</a>                 29-May-2015 13:40  9.2K  
+<a href="img,spdif-in.txt">img,spdif-in.txt</a>          18-Jan-2016 13:00  1.7K  
+<a href="powersave.txt">powersave.txt</a>             29-May-2015 13:40  1.9K  
+<a href="seq_oss.html">seq_oss.html</a>              29-May-2015 13:40   15K  
+<a href="serial-u16550.txt">serial-u16550.txt</a>         29-May-2015 13:40  4.0K  
+<a href="timestamping.txt">timestamping.txt</a>          28-May-2016 15:00   10K  
+<hr></pre>
+</body></html>

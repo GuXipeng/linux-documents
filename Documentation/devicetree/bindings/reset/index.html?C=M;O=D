@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/reset</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/reset</h1>
+<pre><a href="index.html?C=N%3BO=A">Name</a>                                    <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="index.html?C=S%3BO=A">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                             -   
+<a href="oxnas,reset.txt">oxnas,reset.txt</a>                         28-May-2016 15:00  1.1K  
+<a href="img,pistachio-reset.txt">img,pistachio-reset.txt</a>                 21-Mar-2016 13:00  1.6K  
+<a href="hisilicon,hi6220-reset.txt">hisilicon,hi6220-reset.txt</a>              24-Jan-2016 22:00  908   
+<a href="zynq-reset.txt">zynq-reset.txt</a>                          02-Sep-2015 09:00  1.4K  
+<a href="st,sti-softreset.txt">st,sti-softreset.txt</a>                    02-Sep-2015 09:00  1.5K  
+<a href="st,sti-powerdown.txt">st,sti-powerdown.txt</a>                    02-Sep-2015 09:00  1.6K  
+<a href="st,sti-picophyreset.txt">st,sti-picophyreset.txt</a>                 02-Sep-2015 09:00  1.4K  
+<a href="socfpga-reset.txt">socfpga-reset.txt</a>                       02-Sep-2015 09:00  386   
+<a href="nxp,lpc1850-rgu.txt">nxp,lpc1850-rgu.txt</a>                     02-Sep-2015 09:00  1.9K  
+<a href="ath79-reset.txt">ath79-reset.txt</a>                         02-Sep-2015 09:00  580   
+<a href="brcm,bcm63138-pmb.txt">brcm,bcm63138-pmb.txt</a>                   29-Jun-2015 16:01  608   
+<a href="berlin,reset.txt">berlin,reset.txt</a>                        29-Jun-2015 16:01  490   
+<a href="sirf,rstc.txt">sirf,rstc.txt</a>                           29-May-2015 13:40  1.3K  
+<a href="reset.txt">reset.txt</a>                               29-May-2015 13:40  2.9K  
+<a href="fsl,imx-src.txt">fsl,imx-src.txt</a>                         29-May-2015 13:40  1.3K  
+<a href="brcm,bcm21664-resetmgr.txt">brcm,bcm21664-resetmgr.txt</a>              29-May-2015 13:40  328   
+<a href="allwinner,sunxi-clock-reset.txt">allwinner,sunxi-clock-reset.txt</a>         29-May-2015 13:40  559   
+<hr></pre>
+</body></html>

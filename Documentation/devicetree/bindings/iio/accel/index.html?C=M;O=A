@@ -1,0 +1,13 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/iio/accel</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/iio/accel</h1>
+<pre><a href="https://www.kernel.org/doc/Documentation/devicetree/bindings/iio/accel/?C=N;O=A">Name</a>                                        <a href="https://www.kernel.org/doc/Documentation/devicetree/bindings/iio/accel/?C=M;O=D">Last modified</a>      <a href="index.html?C=S%3BO=A">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                                 -   
+<a href="bma180.txt">bma180.txt</a>                                  27-Sep-2015 12:00  876   
+<a href="lis302.txt">lis302.txt</a>                                  09-Nov-2015 15:00  3.6K  
+<a href="mma8452.txt">mma8452.txt</a>                                 28-May-2016 15:00  728   
+<hr></pre>
+</body></html>

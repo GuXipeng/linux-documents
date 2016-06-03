@@ -1,0 +1,29 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/power_supply</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/power_supply</h1>
+<pre><a href="index.html?C=N%3BO=A">Name</a>                                    <a href="index.html?C=M%3BO=D">Last modified</a>      <a href="index.html?C=S%3BO=A">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                             -   
+<a href="ab8500/index.html">ab8500/</a>                                 29-May-2015 13:40    -   
+<a href="axxia-reset.txt">axxia-reset.txt</a>                         29-May-2015 13:40  444   
+<a href="charger-manager.txt">charger-manager.txt</a>                     29-May-2015 13:40  2.3K  
+<a href="gpio-charger.txt">gpio-charger.txt</a>                        29-May-2015 13:40  605   
+<a href="imx-snvs-poweroff.txt">imx-snvs-poweroff.txt</a>                   29-May-2015 13:40  657   
+<a href="lp8727_charger.txt">lp8727_charger.txt</a>                      29-May-2015 13:40  1.1K  
+<a href="max8925_batter.txt">max8925_batter.txt</a>                      29-May-2015 13:40  480   
+<a href="msm-poweroff.txt">msm-poweroff.txt</a>                        29-May-2015 13:40  433   
+<a href="olpc_battery.txt">olpc_battery.txt</a>                        29-May-2015 13:40   84   
+<a href="power_supply.txt">power_supply.txt</a>                        29-May-2015 13:40  441   
+<a href="qnap-poweroff.txt">qnap-poweroff.txt</a>                       29-May-2015 13:40  617   
+<a href="restart-poweroff.txt">restart-poweroff.txt</a>                    29-May-2015 13:40  246   
+<a href="sbs_sbs-battery.txt">sbs_sbs-battery.txt</a>                     29-May-2015 13:40  621   
+<a href="tps65090.txt">tps65090.txt</a>                            29-May-2015 13:40  397   
+<a href="max17042_battery.txt">max17042_battery.txt</a>                    29-Jun-2015 16:01  1.0K  
+<a href="axp20x_usb_power.txt">axp20x_usb_power.txt</a>                    09-Nov-2015 15:00  648   
+<a href="qcom_smbb.txt">qcom_smbb.txt</a>                           09-Nov-2015 15:00  5.1K  
+<a href="tps65217_charger.txt">tps65217_charger.txt</a>                    09-Nov-2015 15:00  193   
+<a href="ti,bq24735.txt">ti,bq24735.txt</a>                          21-Mar-2016 13:00  1.5K  
+<hr></pre>
+</body></html>

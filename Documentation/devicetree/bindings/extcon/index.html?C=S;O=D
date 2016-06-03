@@ -1,0 +1,16 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/extcon</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/extcon</h1>
+<pre><a href="index.html?C=N%3BO=A">Name</a>                                    <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="index.html?C=S%3BO=A">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                             -   
+<a href="extcon-arizona.txt">extcon-arizona.txt</a>                      18-Jan-2016 13:00  2.7K  
+<a href="extcon-rt8973a.txt">extcon-rt8973a.txt</a>                      29-May-2015 13:40  932   
+<a href="extcon-sm5502.txt">extcon-sm5502.txt</a>                       29-May-2015 13:40  809   
+<a href="extcon-palmas.txt">extcon-palmas.txt</a>                       02-Sep-2015 09:00  768   
+<a href="extcon-max3355.txt">extcon-max3355.txt</a>                      18-Jan-2016 13:00  692   
+<a href="extcon-usb-gpio.txt">extcon-usb-gpio.txt</a>                     29-May-2015 13:40  471   
+<hr></pre>
+</body></html>

@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/iio</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/iio</h1>
+<pre><a href="index.html?C=N%3BO=A">Name</a>                                    <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="index.html?C=S%3BO=A">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                             -   
+<a href="pressure/index.html">pressure/</a>                               28-May-2016 15:00    -   
+<a href="potentiometer/index.html">potentiometer/</a>                          28-May-2016 15:00    -   
+<a href="magnetometer/index.html">magnetometer/</a>                           28-May-2016 15:00    -   
+<a href="imu/index.html">imu/</a>                                    28-May-2016 15:00    -   
+<a href="dac/index.html">dac/</a>                                    28-May-2016 15:00    -   
+<a href="adc/index.html">adc/</a>                                    28-May-2016 15:00    -   
+<a href="accel/index.html">accel/</a>                                  28-May-2016 15:00    -   
+<a href="light/index.html">light/</a>                                  21-Mar-2016 13:00    -   
+<a href="health/index.html">health/</a>                                 21-Mar-2016 13:00    -   
+<a href="chemical/index.html">chemical/</a>                               21-Mar-2016 13:00    -   
+<a href="temperature/index.html">temperature/</a>                            29-Jun-2015 16:01    -   
+<a href="proximity/index.html">proximity/</a>                              29-May-2015 13:40    -   
+<a href="humidity/index.html">humidity/</a>                               29-May-2015 13:40    -   
+<a href="frequency/index.html">frequency/</a>                              29-May-2015 13:40    -   
+<a href="st-sensors.txt">st-sensors.txt</a>                          28-May-2016 15:00  1.7K  
+<a href="iio-bindings.txt">iio-bindings.txt</a>                        21-Mar-2016 13:00  2.6K  
+<a href="sensorhub.txt">sensorhub.txt</a>                           29-May-2015 13:40  775   
+<hr></pre>
+</body></html>

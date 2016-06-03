@@ -1,0 +1,28 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/arm/marvell</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/arm/marvell</h1>
+<pre><a href="https://www.kernel.org/doc/Documentation/devicetree/bindings/arm/marvell/?C=N;O=A">Name</a>                                        <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="https://www.kernel.org/doc/Documentation/devicetree/bindings/arm/marvell/?C=S;O=D">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                                 -   
+<a href="armada-375.txt">armada-375.txt</a>                              21-Mar-2016 13:00  263   
+<a href="armada-cpu-reset.txt">armada-cpu-reset.txt</a>                        21-Mar-2016 13:00  363   
+<a href="armada-380-mpcore-soc-ctrl.txt">armada-380-mpcore-soc-ctrl.txt</a>              21-Mar-2016 13:00  399   
+<a href="mvebu-cpu-config.txt">mvebu-cpu-config.txt</a>                        21-Mar-2016 13:00  402   
+<a href="mvebu-system-controller.txt">mvebu-system-controller.txt</a>                 21-Mar-2016 13:00  493   
+<a href="armada-37xx.txt">armada-37xx.txt</a>                             21-Mar-2016 13:00  509   
+<a href="armada-39x.txt">armada-39x.txt</a>                              21-Mar-2016 13:00  540   
+<a href="armada-370-xp-pmsu.txt">armada-370-xp-pmsu.txt</a>                      21-Mar-2016 13:00  567   
+<a href="marvell,dove.txt">marvell,dove.txt</a>                            21-Mar-2016 13:00  621   
+<a href="armada-370-xp.txt">armada-370-xp.txt</a>                           21-Mar-2016 13:00  640   
+<a href="armada-38x.txt">armada-38x.txt</a>                              21-Mar-2016 13:00  729   
+<a href="kirkwood.txt">kirkwood.txt</a>                                21-Mar-2016 13:00  772   
+<a href="armada-7k-8k.txt">armada-7k-8k.txt</a>                            21-Mar-2016 13:00  912   
+<a href="ap806-system-controller.txt">ap806-system-controller.txt</a>                 28-May-2016 15:00  1.1K  
+<a href="coherency-fabric.txt">coherency-fabric.txt</a>                        21-Mar-2016 13:00  1.2K  
+<a href="marvell,kirkwood.txt">marvell,kirkwood.txt</a>                        21-Mar-2016 13:00  2.3K  
+<a href="cp110-system-controller0.txt">cp110-system-controller0.txt</a>                28-May-2016 15:00  2.7K  
+<a href="marvell,berlin.txt">marvell,berlin.txt</a>                          21-Mar-2016 13:00  2.9K  
+<hr></pre>
+</body></html>

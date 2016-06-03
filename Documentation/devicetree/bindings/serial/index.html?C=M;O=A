@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/serial</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/serial</h1>
+<pre><a href="index.html?C=N%3BO=A">Name</a>                                    <a href="index.html?C=M%3BO=D">Last modified</a>      <a href="index.html?C=S%3BO=A">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                             -   
+<a href="altera_jtaguart.txt">altera_jtaguart.txt</a>                     29-May-2015 13:40  136   
+<a href="altera_uart.txt">altera_uart.txt</a>                         29-May-2015 13:40  212   
+<a href="arc-uart.txt">arc-uart.txt</a>                            29-May-2015 13:40  632   
+<a href="brcm,bcm6345-uart.txt">brcm,bcm6345-uart.txt</a>                   29-May-2015 13:40  575   
+<a href="cavium-uart.txt">cavium-uart.txt</a>                         29-May-2015 13:40  506   
+<a href="cdns,uart.txt">cdns,uart.txt</a>                           29-May-2015 13:40  664   
+<a href="cirrus,clps711x-uart.txt">cirrus,clps711x-uart.txt</a>                29-May-2015 13:40  921   
+<a href="digicolor-usart.txt">digicolor-usart.txt</a>                     29-May-2015 13:40  806   
+<a href="efm32-uart.txt">efm32-uart.txt</a>                          29-May-2015 13:40  468   
+<a href="fsl-lpuart.txt">fsl-lpuart.txt</a>                          29-May-2015 13:40  1.1K  
+<a href="lantiq_asc.txt">lantiq_asc.txt</a>                          29-May-2015 13:40  435   
+<a href="maxim,max310x.txt">maxim,max310x.txt</a>                       29-May-2015 13:40  1.2K  
+<a href="mrvl-serial.txt">mrvl-serial.txt</a>                         29-May-2015 13:40  103   
+<a href="nvidia,tegra20-hsuart.txt">nvidia,tegra20-hsuart.txt</a>               29-May-2015 13:40  1.2K  
+<a href="nxp-lpc32xx-hsuart.txt">nxp-lpc32xx-hsuart.txt</a>                  29-May-2015 13:40  322   
+<a href="qca,ar9330-uart.txt">qca,ar9330-uart.txt</a>                     29-May-2015 13:40  777   
+<a href="qcom,msm-uart.txt">qcom,msm-uart.txt</a>                       29-May-2015 13:40  717   
+<a href="rs485.txt">rs485.txt</a>                               29-May-2015 13:40  1.1K  
+<a href="samsung_uart.txt">samsung_uart.txt</a>                        29-May-2015 13:40  2.1K  
+<a href="sprd-uart.txt">sprd-uart.txt</a>                           29-May-2015 13:40  230   
+<a href="st-asc.txt">st-asc.txt</a>                              29-May-2015 13:40  558   
+<a href="vt8500-uart.txt">vt8500-uart.txt</a>                         29-May-2015 13:40  711   
+<a href="arm_sbsa_uart.txt">arm_sbsa_uart.txt</a>                       29-Jun-2015 16:01  438   
+<a href="nxp,lpc1850-uart.txt">nxp,lpc1850-uart.txt</a>                    29-Jun-2015 16:01  927   
+<a href="nxp,sc16is7xx.txt">nxp,sc16is7xx.txt</a>                       29-Jun-2015 16:01  2.3K  
+<a href="uniphier-uart.txt">uniphier-uart.txt</a>                       29-Jun-2015 16:01  549   
+<a href="atmel-usart.txt">atmel-usart.txt</a>                         02-Sep-2015 09:00  2.2K  
+<a href="axis,etraxfs-uart.txt">axis,etraxfs-uart.txt</a>                   02-Sep-2015 09:00  577   
+<a href="omap_serial.txt">omap_serial.txt</a>                         02-Sep-2015 09:00  1.5K  
+<a href="ingenic,uart.txt">ingenic,uart.txt</a>                        09-Nov-2015 15:00  621   
+<a href="mrvl,pxa-ssp.txt">mrvl,pxa-ssp.txt</a>                        09-Nov-2015 15:00  1.2K  
+<a href="pl011.txt">pl011.txt</a>                               09-Nov-2015 15:00  1.6K  
+<a href="qcom,msm-uartdm.txt">qcom,msm-uartdm.txt</a>                     09-Nov-2015 15:00  2.8K  
+<a href="snps-dw-apb-uart.txt">snps-dw-apb-uart.txt</a>                    09-Nov-2015 15:00  2.6K  
+<a href="8250.txt">8250.txt</a>                                18-Jan-2016 13:00  2.2K  
+<a href="brcm,bcm2835-aux-uart.txt">brcm,bcm2835-aux-uart.txt</a>               21-Mar-2016 13:00  435   
+<a href="mtk-uart.txt">mtk-uart.txt</a>                            21-Mar-2016 13:00  1.4K  
+<a href="renesas,sci-serial.txt">renesas,sci-serial.txt</a>                  21-Mar-2016 13:00  5.0K  
+<a href="arm,mps2-uart.txt">arm,mps2-uart.txt</a>                       28-May-2016 15:00  407   
+<a href="fsl-imx-uart.txt">fsl-imx-uart.txt</a>                        28-May-2016 15:00  771   
+<a href="fsl-mxs-auart.txt">fsl-mxs-auart.txt</a>                       28-May-2016 15:00  1.7K  
+<a href="mvebu-uart.txt">mvebu-uart.txt</a>                          28-May-2016 15:00  362   
+<a href="serial.txt">serial.txt</a>                              28-May-2016 15:00  2.1K  
+<a href="sirf-uart.txt">sirf-uart.txt</a>                           28-May-2016 15:00  1.0K  
+<a href="microchip,pic32-uart.txt">microchip,pic32-uart.txt</a>                29-May-2016 17:00  1.0K  
+<hr></pre>
+</body></html>

@@ -1,0 +1,18 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/thermal</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/thermal</h1>
+<pre><a href="index.html?C=N%3BO=A">Name</a>                        <a href="index.html?C=M%3BO=D">Last modified</a>      <a href="index.html?C=S%3BO=A">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                 -   
+<a href="exynos_thermal">exynos_thermal</a>              29-May-2015 13:40  2.8K  
+<a href="exynos_thermal_emulation">exynos_thermal_emulation</a>    29-May-2015 13:40  2.2K  
+<a href="intel_powerclamp.txt">intel_powerclamp.txt</a>        29-May-2015 13:40   11K  
+<a href="nouveau_thermal">nouveau_thermal</a>             29-May-2015 13:40  2.7K  
+<a href="x86_pkg_temperature_thermal">x86_pkg_temperature_thermal</a> 29-May-2015 13:40  1.4K  
+<a href="cpu-cooling-api.txt">cpu-cooling-api.txt</a>         29-Jun-2015 16:01  8.6K  
+<a href="power_allocator.txt">power_allocator.txt</a>         27-Sep-2015 12:00   10K  
+<a href="sysfs-api.txt">sysfs-api.txt</a>               28-May-2016 15:00   23K  
+<hr></pre>
+</body></html>

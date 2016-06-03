@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/usb</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/usb</h1>
+<pre><a href="index.html?C=N%3BO=A">Name</a>                                    <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="index.html?C=S%3BO=D">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                             -   
+<a href="ohci-omap3.txt">ohci-omap3.txt</a>                          29-May-2015 13:40  355   
+<a href="usb-uhci.txt">usb-uhci.txt</a>                            29-May-2015 13:40  383   
+<a href="brcm,bcm3384-usb.txt">brcm,bcm3384-usb.txt</a>                    29-May-2015 13:40  419   
+<a href="usbmisc-imx.txt">usbmisc-imx.txt</a>                         29-May-2015 13:40  440   
+<a href="ehci-orion.txt">ehci-orion.txt</a>                          29-May-2015 13:40  476   
+<a href="udc-xilinx.txt">udc-xilinx.txt</a>                          29-May-2015 13:40  581   
+<a href="isp1301.txt">isp1301.txt</a>                             29-May-2015 13:40  635   
+<a href="ohci-nxp.txt">ohci-nxp.txt</a>                            29-May-2015 13:40  637   
+<a href="renesas_usb3.txt">renesas_usb3.txt</a>                        18-Jan-2016 13:00  720   
+<a href="usb-device.txt">usb-device.txt</a>                          21-Mar-2016 13:00  729   
+<a href="ehci-omap.txt">ehci-omap.txt</a>                           29-May-2015 13:40  754   
+<a href="spear-usb.txt">spear-usb.txt</a>                           29-May-2015 13:40  839   
+<a href="lpc32xx-udc.txt">lpc32xx-udc.txt</a>                         29-May-2015 13:40  873   
+<a href="usb-ohci.txt">usb-ohci.txt</a>                            29-May-2015 13:40  928   
+<a href="dwc3-xilinx.txt">dwc3-xilinx.txt</a>                         18-Jan-2016 13:00  929   
+<a href="nvidia,tegra20-ehci.txt">nvidia,tegra20-ehci.txt</a>                 29-May-2015 13:40  1.0K  
+<a href="allwinner,sun4i-a10-musb.txt">allwinner,sun4i-a10-musb.txt</a>            02-Sep-2015 09:00  1.0K  
+<a href="ohci-st.txt">ohci-st.txt</a>                             29-May-2015 13:40  1.1K  
+<a href="usb-xhci.txt">usb-xhci.txt</a>                            28-May-2016 15:00  1.2K  
+<a href="samsung-hsotg.txt">samsung-hsotg.txt</a>                       29-May-2015 13:40  1.2K  
+<a href="keystone-usb.txt">keystone-usb.txt</a>                        29-May-2015 13:40  1.2K  
+<a href="ehci-st.txt">ehci-st.txt</a>                             29-May-2015 13:40  1.4K  
+<a href="usb-nop-xceiv.txt">usb-nop-xceiv.txt</a>                       29-May-2015 13:40  1.4K  
+<a href="usb-ehci.txt">usb-ehci.txt</a>                            29-Jun-2015 16:01  1.4K  
+<a href="gr-udc.txt">gr-udc.txt</a>                              29-May-2015 13:40  1.4K  
+<a href="generic.txt">generic.txt</a>                             02-Sep-2015 09:00  1.5K  
+<a href="usb3503.txt">usb3503.txt</a>                             18-Jan-2016 13:00  1.5K  
+<a href="pxa-usb.txt">pxa-usb.txt</a>                             29-May-2015 13:40  1.5K  
+<a href="twlxxxx-usb.txt">twlxxxx-usb.txt</a>                         29-Jun-2015 16:01  1.5K  
+<a href="qcom,dwc3.txt">qcom,dwc3.txt</a>                           28-May-2016 15:00  1.6K  
+<a href="renesas_usbhs.txt">renesas_usbhs.txt</a>                       18-Jan-2016 13:00  1.6K  
+<a href="octeon-usb.txt">octeon-usb.txt</a>                          18-Jan-2016 13:00  1.6K  
+<a href="mt8173-xhci.txt">mt8173-xhci.txt</a>                         18-Jan-2016 13:00  1.7K  
+<a href="ux500-usb.txt">ux500-usb.txt</a>                           29-May-2015 13:40  1.7K  
+<a href="dwc2.txt">dwc2.txt</a>                                21-Mar-2016 13:00  1.7K  
+<a href="dwc3-st.txt">dwc3-st.txt</a>                             29-Jun-2015 16:01  2.3K  
+<a href="omap-usb.txt">omap-usb.txt</a>                            29-May-2015 13:40  2.6K  
+<a href="dwc3.txt">dwc3.txt</a>                                28-May-2016 15:00  2.8K  
+<a href="fsl-usb.txt">fsl-usb.txt</a>                             29-May-2015 13:40  2.9K  
+<a href="exynos-usb.txt">exynos-usb.txt</a>                          29-May-2015 13:40  3.4K  
+<a href="msm-hsusb.txt">msm-hsusb.txt</a>                           02-Sep-2015 09:00  4.2K  
+<a href="atmel-usb.txt">atmel-usb.txt</a>                           05-Jul-2015 20:00  4.3K  
+<a href="ci-hdrc-usb2.txt">ci-hdrc-usb2.txt</a>                        21-Mar-2016 13:00  4.6K  
+<a href="nvidia,tegra124-xusb.txt">nvidia,tegra124-xusb.txt</a>                28-May-2016 15:00  4.6K  
+<a href="am33xx-usb.txt">am33xx-usb.txt</a>                          29-May-2015 13:40  5.8K  
+<hr></pre>
+</body></html>

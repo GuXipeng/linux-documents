@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/power</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/power</h1>
+<pre><a href="index.html?C=N%3BO=A">Name</a>                       <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="index.html?C=S%3BO=A">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                -   
+<a href="regulator/index.html">regulator/</a>                 29-May-2015 13:40    -   
+<a href="powercap/index.html">powercap/</a>                  29-May-2015 13:40    -   
+<a href="runtime_pm.txt">runtime_pm.txt</a>             11-Apr-2016 02:00   44K  
+<a href="pci.txt">pci.txt</a>                    18-Jan-2016 13:00   54K  
+<a href="suspend-and-cpuhotplug.txt">suspend-and-cpuhotplug.txt</a> 02-Sep-2015 09:00   13K  
+<a href="devices.txt">devices.txt</a>                02-Sep-2015 09:00   36K  
+<a href="swsusp.txt">swsusp.txt</a>                 12-Jul-2015 23:00   17K  
+<a href="video.txt">video.txt</a>                  29-May-2015 13:40  8.3K  
+<a href="userland-swsusp.txt">userland-swsusp.txt</a>        29-May-2015 13:40  8.4K  
+<a href="tricks.txt">tricks.txt</a>                 29-May-2015 13:40  753   
+<a href="swsusp-dmcrypt.txt">swsusp-dmcrypt.txt</a>         29-May-2015 13:40  4.6K  
+<a href="swsusp-and-swap-files.txt">swsusp-and-swap-files.txt</a>  29-May-2015 13:40  2.7K  
+<a href="suspend-and-interrupts.txt">suspend-and-interrupts.txt</a> 29-May-2015 13:40  7.0K  
+<a href="states.txt">states.txt</a>                 29-May-2015 13:40  5.0K  
+<a href="s2ram.txt">s2ram.txt</a>                  29-May-2015 13:40  3.3K  
+<a href="power_supply_class.txt">power_supply_class.txt</a>     29-May-2015 13:40  9.1K  
+<a href="pm_qos_interface.txt">pm_qos_interface.txt</a>       29-May-2015 13:40   10K  
+<a href="opp.txt">opp.txt</a>                    29-May-2015 13:40   14K  
+<a href="notifiers.txt">notifiers.txt</a>              29-May-2015 13:40  2.8K  
+<a href="interface.txt">interface.txt</a>              29-May-2015 13:40  3.2K  
+<a href="freezing-of-tasks.txt">freezing-of-tasks.txt</a>      29-May-2015 13:40   12K  
+<a href="drivers-testing.txt">drivers-testing.txt</a>        29-May-2015 13:40  2.1K  
+<a href="charger-manager.txt">charger-manager.txt</a>        29-May-2015 13:40  9.2K  
+<a href="basic-pm-debugging.txt">basic-pm-debugging.txt</a>     29-May-2015 13:40   11K  
+<a href="apm-acpi.txt">apm-acpi.txt</a>               29-May-2015 13:40  1.5K  
+<a href="00-INDEX">00-INDEX</a>                   29-May-2015 13:40  1.5K  
+<hr></pre>
+</body></html>

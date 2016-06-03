@@ -1,0 +1,48 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/timer</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/timer</h1>
+<pre><a href="index.html?C=N%3BO=A">Name</a>                                    <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="index.html?C=S%3BO=A">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                             -   
+<a href="snps,archs-rtc.txt">snps,archs-rtc.txt</a>                      28-May-2016 15:00  280   
+<a href="snps,archs-gfrc.txt">snps,archs-gfrc.txt</a>                     28-May-2016 15:00  287   
+<a href="snps,arc-timer.txt">snps,arc-timer.txt</a>                      28-May-2016 15:00  845   
+<a href="ezchip,nps400-timer.txt">ezchip,nps400-timer.txt</a>                 28-May-2016 15:00  295   
+<a href="arm,mps2-timer.txt">arm,mps2-timer.txt</a>                      28-May-2016 15:00  682   
+<a href="mediatek,mtk-timer.txt">mediatek,mtk-timer.txt</a>                  21-Mar-2016 13:00  1.0K  
+<a href="st,stih407-lpc">st,stih407-lpc</a>                          07-Sep-2015 15:00  1.0K  
+<a href="img,pistachio-gptimer.txt">img,pistachio-gptimer.txt</a>               07-Sep-2015 15:00  1.0K  
+<a href="st,stm32-timer.txt">st,stm32-timer.txt</a>                      29-Jun-2015 16:01  560   
+<a href="renesas,tpu.txt">renesas,tpu.txt</a>                         29-Jun-2015 16:01  609   
+<a href="renesas,16bit-timer.txt">renesas,16bit-timer.txt</a>                 29-Jun-2015 16:01  738   
+<a href="renesas,8bit-timer.txt">renesas,8bit-timer.txt</a>                  29-Jun-2015 16:01  686   
+<a href="nxp,lpc3220-timer.txt">nxp,lpc3220-timer.txt</a>                   29-Jun-2015 16:01  583   
+<a href="cadence,ttc-timer.txt">cadence,ttc-timer.txt</a>                   29-Jun-2015 16:01  547   
+<a href="ti,keystone-timer.txt">ti,keystone-timer.txt</a>                   29-May-2015 13:40  1.0K  
+<a href="stericsson-u300-apptimer.txt">stericsson-u300-apptimer.txt</a>            29-May-2015 13:40  542   
+<a href="samsung,exynos4210-mct.txt">samsung,exynos4210-mct.txt</a>              29-May-2015 13:40  3.0K  
+<a href="rockchip,rk3288-timer.txt">rockchip,rk3288-timer.txt</a>               29-May-2015 13:40  588   
+<a href="renesas,tmu.txt">renesas,tmu.txt</a>                         29-May-2015 13:40  1.4K  
+<a href="renesas,mtu2.txt">renesas,mtu2.txt</a>                        29-May-2015 13:40  1.5K  
+<a href="renesas,cmt.txt">renesas,cmt.txt</a>                         29-May-2015 13:40  3.0K  
+<a href="nvidia,tegra30-timer.txt">nvidia,tegra30-timer.txt</a>                29-May-2015 13:40  972   
+<a href="nvidia,tegra20-timer.txt">nvidia,tegra20-timer.txt</a>                29-May-2015 13:40  660   
+<a href="moxa,moxart-timer.txt">moxa,moxart-timer.txt</a>                   29-May-2015 13:40  412   
+<a href="marvell,orion-timer.txt">marvell,orion-timer.txt</a>                 29-May-2015 13:40  530   
+<a href="marvell,armada-370-xp-timer.txt">marvell,armada-370-xp-timer.txt</a>         29-May-2015 13:40  1.3K  
+<a href="lsi,zevio-timer.txt">lsi,zevio-timer.txt</a>                     29-May-2015 13:40  719   
+<a href="fsl,imxgpt.txt">fsl,imxgpt.txt</a>                          29-May-2015 13:40  493   
+<a href="fsl,ftm-timer.txt">fsl,ftm-timer.txt</a>                       29-May-2015 13:40  1.1K  
+<a href="energymicro,efm32-timer.txt">energymicro,efm32-timer.txt</a>             29-May-2015 13:40  722   
+<a href="digicolor-timer.txt">digicolor-timer.txt</a>                     29-May-2015 13:40  483   
+<a href="cirrus,clps711x-timer.txt">cirrus,clps711x-timer.txt</a>               29-May-2015 13:40  730   
+<a href="brcm,kona-timer.txt">brcm,kona-timer.txt</a>                     29-May-2015 13:40  761   
+<a href="brcm,bcm2835-system-timer.txt">brcm,bcm2835-system-timer.txt</a>           29-May-2015 13:40  747   
+<a href="arm,sp804.txt">arm,sp804.txt</a>                           29-May-2015 13:40  1.1K  
+<a href="amlogic,meson6-timer.txt">amlogic,meson6-timer.txt</a>                29-May-2015 13:40  342   
+<a href="allwinner,sun5i-a13-hstimer.txt">allwinner,sun5i-a13-hstimer.txt</a>         29-May-2015 13:40  690   
+<a href="allwinner,sun4i-timer.txt">allwinner,sun4i-timer.txt</a>               29-May-2015 13:40  426   
+<hr></pre>
+</body></html>

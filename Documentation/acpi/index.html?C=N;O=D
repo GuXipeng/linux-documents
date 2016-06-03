@@ -1,0 +1,22 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/acpi</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/acpi</h1>
+<pre><a href="index.html?C=N%3BO=A">Name</a>                      <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="index.html?C=S%3BO=A">Size</a>  <hr><a href="../index.html">Parent Directory</a>                               -   
+<a href="apei/index.html">apei/</a>                     29-May-2015 13:40    -   
+<a href="video_extension.txt">video_extension.txt</a>       29-May-2015 13:40  4.0K  
+<a href="scan_handlers.txt">scan_handlers.txt</a>         29-May-2015 13:40  4.3K  
+<a href="namespace.txt">namespace.txt</a>             29-May-2015 13:40   17K  
+<a href="method-tracing.txt">method-tracing.txt</a>        02-Sep-2015 09:00  9.0K  
+<a href="method-customizing.txt">method-customizing.txt</a>    29-May-2015 13:40  3.1K  
+<a href="initrd_table_override.txt">initrd_table_override.txt</a> 28-May-2016 15:00  4.2K  
+<a href="i2c-muxes.txt">i2c-muxes.txt</a>             16-Nov-2015 02:00  1.5K  
+<a href="gpio-properties.txt">gpio-properties.txt</a>       29-May-2015 13:40  4.2K  
+<a href="enumeration.txt">enumeration.txt</a>           09-Nov-2015 15:00   14K  
+<a href="dsdt-override.txt">dsdt-override.txt</a>         29-May-2015 13:40  245   
+<a href="debug.txt">debug.txt</a>                 29-May-2015 13:40  5.6K  
+<hr></pre>
+</body></html>

@@ -1,0 +1,15 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/arm/samsung</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/arm/samsung</h1>
+<pre><a href="https://www.kernel.org/doc/Documentation/devicetree/bindings/arm/samsung/?C=N;O=A">Name</a>                                        <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="https://www.kernel.org/doc/Documentation/devicetree/bindings/arm/samsung/?C=S;O=D">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                                 -   
+<a href="exynos-chipid.txt">exynos-chipid.txt</a>                           29-May-2015 13:40  276   
+<a href="sysreg.txt">sysreg.txt</a>                                  29-May-2015 13:40  571   
+<a href="pmu.txt">pmu.txt</a>                                     29-May-2015 13:40  2.3K  
+<a href="samsung-boards.txt">samsung-boards.txt</a>                          28-May-2016 15:00  3.1K  
+<a href="exynos-adc.txt">exynos-adc.txt</a>                              24-Jan-2016 22:00  3.2K  
+<hr></pre>
+</body></html>

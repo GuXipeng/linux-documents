@@ -1,0 +1,14 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/input/rmi4</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/input/rmi4</h1>
+<pre><a href="https://www.kernel.org/doc/Documentation/devicetree/bindings/input/rmi4/?C=N;O=A">Name</a>                                          <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="https://www.kernel.org/doc/Documentation/devicetree/bindings/input/rmi4/?C=S;O=D">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                                   -   
+<a href="rmi_f01.txt">rmi_f01.txt</a>                                   21-Mar-2016 13:00  1.3K  
+<a href="rmi_i2c.txt">rmi_i2c.txt</a>                                   21-Mar-2016 13:00  1.5K  
+<a href="rmi_spi.txt">rmi_spi.txt</a>                                   21-Mar-2016 13:00  1.6K  
+<a href="rmi_2d_sensor.txt">rmi_2d_sensor.txt</a>                             21-Mar-2016 13:00  1.8K  
+<hr></pre>
+</body></html>

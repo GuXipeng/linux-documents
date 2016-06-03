@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/input/touchscreen</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/input/touchscreen</h1>
+<pre><a href="https://www.kernel.org/doc/Documentation/devicetree/bindings/input/touchscreen/?C=N;O=A">Name</a>                                          <a href="https://www.kernel.org/doc/Documentation/devicetree/bindings/input/touchscreen/?C=M;O=D">Last modified</a>      <a href="index.html?C=S%3BO=A">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                                   -   
+<a href="auo_pixcir_ts.txt">auo_pixcir_ts.txt</a>                             29-May-2015 13:40  667   
+<a href="bu21013.txt">bu21013.txt</a>                                   29-May-2015 13:40  830   
+<a href="chipone_icn8318.txt">chipone_icn8318.txt</a>                           29-May-2015 13:40  1.5K  
+<a href="egalax-ts.txt">egalax-ts.txt</a>                                 29-May-2015 13:40  488   
+<a href="lpc32xx-tsc.txt">lpc32xx-tsc.txt</a>                               29-May-2015 13:40  376   
+<a href="mms114.txt">mms114.txt</a>                                    29-May-2015 13:40  669   
+<a href="sitronix-st1232.txt">sitronix-st1232.txt</a>                           29-May-2015 13:40  431   
+<a href="stmpe.txt">stmpe.txt</a>                                     29-May-2015 13:40  1.5K  
+<a href="sun4i.txt">sun4i.txt</a>                                     29-May-2015 13:40  1.1K  
+<a href="sx8654.txt">sx8654.txt</a>                                    29-May-2015 13:40  382   
+<a href="tsc2007.txt">tsc2007.txt</a>                                   29-May-2015 13:40  1.3K  
+<a href="ti-tsc-adc.txt">ti-tsc-adc.txt</a>                                29-Jun-2015 16:01  3.2K  
+<a href="zforce_ts.txt">zforce_ts.txt</a>                                 07-Sep-2015 15:00  784   
+<a href="colibri-vf50-ts.txt">colibri-vf50-ts.txt</a>                           13-Sep-2015 00:00  1.4K  
+<a href="imx6ul_tsc.txt">imx6ul_tsc.txt</a>                                13-Sep-2015 00:00  1.3K  
+<a href="edt-ft5x06.txt">edt-ft5x06.txt</a>                                09-Nov-2015 15:00  1.9K  
+<a href="focaltech-ft6236.txt">focaltech-ft6236.txt</a>                          09-Nov-2015 15:00  1.2K  
+<a href="tsc2005.txt">tsc2005.txt</a>                                   16-Nov-2015 02:00  1.7K  
+<a href="goodix.txt">goodix.txt</a>                                    18-Jan-2016 13:00  1.1K  
+<a href="pixcir_i2c_ts.txt">pixcir_i2c_ts.txt</a>                             18-Jan-2016 13:00  857   
+<a href="ts4800-ts.txt">ts4800-ts.txt</a>                                 18-Jan-2016 13:00  438   
+<a href="ad7879.txt">ad7879.txt</a>                                    21-Mar-2016 13:00  1.8K  
+<a href="cyttsp.txt">cyttsp.txt</a>                                    21-Mar-2016 13:00  3.2K  
+<a href="touchscreen.txt">touchscreen.txt</a>                               21-Mar-2016 13:00  1.4K  
+<a href="brcm,iproc-touchscreen.txt">brcm,iproc-touchscreen.txt</a>                    28-May-2016 15:00  3.3K  
+<a href="fsl-mx25-tcq.txt">fsl-mx25-tcq.txt</a>                              28-May-2016 15:00  1.4K  
+<hr></pre>
+</body></html>

@@ -1,0 +1,48 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/usb</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/usb</h1>
+<pre><a href="index.html?C=N%3BO=A">Name</a>                        <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="index.html?C=S%3BO=A">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                 -   
+<a href="power-management.txt">power-management.txt</a>        18-Jan-2016 13:00   34K  
+<a href="usbip_protocol.txt">usbip_protocol.txt</a>          21-Mar-2016 13:00   23K  
+<a href="gadget-testing.txt">gadget-testing.txt</a>          18-Jan-2016 13:00   22K  
+<a href="usb-serial.txt">usb-serial.txt</a>              29-Jun-2015 16:01   19K  
+<a href="WUSB-Design-overview.txt">WUSB-Design-overview.txt</a>    29-May-2015 13:40   17K  
+<a href="proc_usb_info.txt">proc_usb_info.txt</a>           29-May-2015 13:40   15K  
+<a href="usbmon.txt">usbmon.txt</a>                  29-May-2015 13:40   14K  
+<a href="gadget_hid.txt">gadget_hid.txt</a>              29-May-2015 13:40   11K  
+<a href="gadget_serial.txt">gadget_serial.txt</a>           29-May-2015 13:40   11K  
+<a href="gadget_printer.txt">gadget_printer.txt</a>          29-May-2015 13:40   11K  
+<a href="URB.txt">URB.txt</a>                     29-May-2015 13:40   10K  
+<a href="gadget_configfs.txt">gadget_configfs.txt</a>         29-May-2015 13:40   10K  
+<a href="ehci.txt">ehci.txt</a>                    29-May-2015 13:40  9.7K  
+<a href="mass-storage.txt">mass-storage.txt</a>            29-May-2015 13:40  9.5K  
+<a href="persist.txt">persist.txt</a>                 29-May-2015 13:40  7.5K  
+<a href="CREDITS">CREDITS</a>                     29-May-2015 13:40  7.2K  
+<a href="error-codes.txt">error-codes.txt</a>             29-May-2015 13:40  6.4K  
+<a href="hotplug.txt">hotplug.txt</a>                 29-May-2015 13:40  6.2K  
+<a href="dma.txt">dma.txt</a>                     29-May-2015 13:40  5.8K  
+<a href="gadget_multi.txt">gadget_multi.txt</a>            18-Apr-2016 03:00  5.4K  
+<a href="acm.txt">acm.txt</a>                     29-May-2015 13:40  4.9K  
+<a href="callbacks.txt">callbacks.txt</a>               29-May-2015 13:40  4.9K  
+<a href="rio.txt">rio.txt</a>                     29-May-2015 13:40  4.3K  
+<a href="authorization.txt">authorization.txt</a>           09-Nov-2015 15:00  3.6K  
+<a href="chipidea.txt">chipidea.txt</a>                28-May-2016 15:00  3.4K  
+<a href="linux-cdc-acm.inf">linux-cdc-acm.inf</a>           29-May-2015 13:40  3.3K  
+<a href="wusb-cbaf">wusb-cbaf</a>                   29-May-2015 13:40  3.2K  
+<a href="bulk-streams.txt">bulk-streams.txt</a>            29-May-2015 13:40  3.2K  
+<a href="functionfs.txt">functionfs.txt</a>              29-May-2015 13:40  3.0K  
+<a href="iuu_phoenix.txt">iuu_phoenix.txt</a>             29-May-2015 13:40  2.7K  
+<a href="mtouchusb.txt">mtouchusb.txt</a>               29-May-2015 13:40  2.7K  
+<a href="anchors.txt">anchors.txt</a>                 29-May-2015 13:40  2.6K  
+<a href="usbdevfs-drop-permissions.c">usbdevfs-drop-permissions.c</a> 21-Mar-2016 13:00  2.3K  
+<a href="linux.inf">linux.inf</a>                   29-May-2015 13:40  2.2K  
+<a href="dwc3.txt">dwc3.txt</a>                    29-May-2015 13:40  1.8K  
+<a href="misc_usbsevseg.txt">misc_usbsevseg.txt</a>          29-May-2015 13:40  1.5K  
+<a href="ohci.txt">ohci.txt</a>                    29-May-2015 13:40  1.5K  
+<a href="usb-help.txt">usb-help.txt</a>                29-May-2015 13:40  495   
+<hr></pre>
+</body></html>

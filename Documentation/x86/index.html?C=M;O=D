@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/x86</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/x86</h1>
+<pre><a href="index.html?C=N%3BO=A">Name</a>                    <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="index.html?C=S%3BO=A">Size</a>  <hr><a href="../index.html">Parent Directory</a>                             -   
+<a href="x86_64/index.html">x86_64/</a>                 25-Apr-2016 00:00    -   
+<a href="i386/index.html">i386/</a>                   29-May-2015 13:40    -   
+<a href="pat.txt">pat.txt</a>                 28-May-2016 15:00   11K  
+<a href="intel_mpx.txt">intel_mpx.txt</a>           28-May-2016 15:00   11K  
+<a href="protection-keys.txt">protection-keys.txt</a>     18-Apr-2016 03:00  1.3K  
+<a href="topology.txt">topology.txt</a>            03-Apr-2016 15:00  6.4K  
+<a href="exception-tables.txt">exception-tables.txt</a>    21-Mar-2016 13:00   13K  
+<a href="early-microcode.txt">early-microcode.txt</a>     21-Mar-2016 13:00  2.3K  
+<a href="zero-page.txt">zero-page.txt</a>           02-Sep-2015 09:00  1.7K  
+<a href="mtrr.txt">mtrr.txt</a>                02-Sep-2015 09:00   12K  
+<a href="kernel-stacks">kernel-stacks</a>           02-Sep-2015 09:00  6.1K  
+<a href="entry_64.txt">entry_64.txt</a>            05-Jul-2015 20:00  4.1K  
+<a href="boot.txt">boot.txt</a>                05-Jul-2015 20:00   39K  
+<a href="usb-legacy-support.txt">usb-legacy-support.txt</a>  29-May-2015 13:40  1.8K  
+<a href="tlb.txt">tlb.txt</a>                 29-May-2015 13:40  3.6K  
+<a href="earlyprintk.txt">earlyprintk.txt</a>         29-May-2015 13:40  5.7K  
+<a href="00-INDEX">00-INDEX</a>                29-May-2015 13:40  643   
+<hr></pre>
+</body></html>

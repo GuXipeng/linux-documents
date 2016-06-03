@@ -1,0 +1,15 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/soc/fsl</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/soc/fsl</h1>
+<pre><a href="https://www.kernel.org/doc/Documentation/devicetree/bindings/soc/fsl/?C=N;O=A">Name</a>                                        <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="https://www.kernel.org/doc/Documentation/devicetree/bindings/soc/fsl/?C=S;O=D">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                                 -   
+<a href="bman-portals.txt">bman-portals.txt</a>                            29-May-2015 13:40  1.4K  
+<a href="rcpm.txt">rcpm.txt</a>                                    21-Mar-2016 13:00  2.2K  
+<a href="bman.txt">bman.txt</a>                                    29-May-2015 13:40  3.4K  
+<a href="qman-portals.txt">qman-portals.txt</a>                            29-Jun-2015 16:01  3.5K  
+<a href="qman.txt">qman.txt</a>                                    29-May-2015 13:40  4.4K  
+<hr></pre>
+</body></html>

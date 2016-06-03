@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/gpio</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/gpio</h1>
+<pre><a href="index.html?C=N%3BO=A">Name</a>                                    <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="index.html?C=S%3BO=A">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                             -   
+<a href="zx296702-gpio.txt">zx296702-gpio.txt</a>                       07-Sep-2015 15:00  802   
+<a href="wd,mbl-gpio.txt">wd,mbl-gpio.txt</a>                         28-May-2016 15:00  1.1K  
+<a href="spear_spics.txt">spear_spics.txt</a>                         29-May-2015 13:40  1.9K  
+<a href="sodaville.txt">sodaville.txt</a>                           29-May-2015 13:40  1.5K  
+<a href="snps-dwapb-gpio.txt">snps-dwapb-gpio.txt</a>                     18-Jan-2016 13:00  1.9K  
+<a href="renesas,gpio-rcar.txt">renesas,gpio-rcar.txt</a>                   07-Sep-2015 15:00  2.4K  
+<a href="pl061-gpio.txt">pl061-gpio.txt</a>                          29-May-2015 13:40  445   
+<a href="nxp,lpc1850-gpio.txt">nxp,lpc1850-gpio.txt</a>                    29-Jun-2015 16:01  1.0K  
+<a href="nvidia,tegra186-gpio.txt">nvidia,tegra186-gpio.txt</a>                28-May-2016 15:00  6.8K  
+<a href="nvidia,tegra20-gpio.txt">nvidia,tegra20-gpio.txt</a>                 29-May-2015 13:40  1.3K  
+<a href="netxbig-gpio-ext.txt">netxbig-gpio-ext.txt</a>                    09-Nov-2015 15:00  751   
+<a href="mrvl-gpio.txt">mrvl-gpio.txt</a>                           29-May-2015 13:40  2.1K  
+<a href="moxa,moxart-gpio.txt">moxa,moxart-gpio.txt</a>                    29-May-2015 13:40  429   
+<a href="microchip,pic32-gpio.txt">microchip,pic32-gpio.txt</a>                29-May-2016 17:00  1.4K  
+<a href="ibm,ppc4xx-gpio.txt">ibm,ppc4xx-gpio.txt</a>                     28-May-2016 15:00  799   
+<a href="gpio_lpc32xx.txt">gpio_lpc32xx.txt</a>                        29-May-2015 13:40  1.0K  
+<a href="gpio_atmel.txt">gpio_atmel.txt</a>                          29-May-2015 13:40  731   
+<a href="gpio.txt">gpio.txt</a>                                28-May-2016 15:00   12K  
+<a href="gpio-zynq.txt">gpio-zynq.txt</a>                           09-Nov-2015 15:00  1.3K  
+<a href="gpio-zevio.txt">gpio-zevio.txt</a>                          29-May-2015 13:40  492   
+<a href="gpio-xlp.txt">gpio-xlp.txt</a>                            28-May-2016 15:00  1.7K  
+<a href="gpio-xilinx.txt">gpio-xilinx.txt</a>                         29-May-2015 13:40  1.8K  
+<a href="gpio-xgene.txt">gpio-xgene.txt</a>                          29-May-2015 13:40  664   
+<a href="gpio-xgene-sb.txt">gpio-xgene-sb.txt</a>                       21-Mar-2016 13:00  2.4K  
+<a href="gpio-vf610.txt">gpio-vf610.txt</a>                          29-May-2015 13:40  1.7K  
+<a href="gpio-tz1090.txt">gpio-tz1090.txt</a>                         29-May-2015 13:40  2.4K  
+<a href="gpio-tz1090-pdc.txt">gpio-tz1090-pdc.txt</a>                     29-May-2015 13:40  1.3K  
+<a href="gpio-twl4030.txt">gpio-twl4030.txt</a>                        29-May-2015 13:40  953   
+<a href="gpio-ts4800.txt">gpio-ts4800.txt</a>                         21-Mar-2016 13:00  456   
+<a href="gpio-tps65086.txt">gpio-tps65086.txt</a>                       18-Jan-2016 13:00  442   
+<a href="gpio-sx150x.txt">gpio-sx150x.txt</a>                         18-Jan-2016 13:00  1.1K  
+<a href="gpio-stp-xway.txt">gpio-stp-xway.txt</a>                       29-May-2015 13:40  1.5K  
+<a href="gpio-stmpe.txt">gpio-stmpe.txt</a>                          29-May-2015 13:40  428   
+<a href="gpio-stericsson-coh901.txt">gpio-stericsson-coh901.txt</a>              29-May-2015 13:40  303   
+<a href="gpio-samsung.txt">gpio-samsung.txt</a>                        29-May-2015 13:40  1.2K  
+<a href="gpio-pisosr.txt">gpio-pisosr.txt</a>                         21-Mar-2016 13:00  1.0K  
+<a href="gpio-pcf857x.txt">gpio-pcf857x.txt</a>                        29-May-2015 13:40  2.9K  
+<a href="gpio-pca953x.txt">gpio-pca953x.txt</a>                        18-Jan-2016 13:00  648   
+<a href="gpio-palmas.txt">gpio-palmas.txt</a>                         29-May-2015 13:40  760   
+<a href="gpio-omap.txt">gpio-omap.txt</a>                           29-May-2015 13:40  1.2K  
+<a href="gpio-nmk.txt">gpio-nmk.txt</a>                            29-May-2015 13:40  1.5K  
+<a href="gpio-mxs.txt">gpio-mxs.txt</a>                            29-May-2015 13:40  2.2K  
+<a href="gpio-mvebu.txt">gpio-mvebu.txt</a>                          29-May-2015 13:40  1.8K  
+<a href="gpio-mpc8xxx.txt">gpio-mpc8xxx.txt</a>                        28-May-2016 15:00  1.2K  
+<a href="gpio-mm-lantiq.txt">gpio-mm-lantiq.txt</a>                      29-May-2015 13:40  1.2K  
+<a href="gpio-mcp23s08.txt">gpio-mcp23s08.txt</a>                       21-Mar-2016 13:00  3.6K  
+<a href="gpio-max732x.txt">gpio-max732x.txt</a>                        29-May-2015 13:40  2.2K  
+<a href="gpio-lp3943.txt">gpio-lp3943.txt</a>                         29-May-2015 13:40  733   
+<a href="gpio-grgpio.txt">gpio-grgpio.txt</a>                         29-May-2015 13:40  905   
+<a href="gpio-fan.txt">gpio-fan.txt</a>                            29-May-2015 13:40  1.2K  
+<a href="gpio-etraxfs.txt">gpio-etraxfs.txt</a>                        07-Sep-2015 15:00  587   
+<a href="gpio-dsp-keystone.txt">gpio-dsp-keystone.txt</a>                   29-May-2015 13:40  1.3K  
+<a href="gpio-davinci.txt">gpio-davinci.txt</a>                        29-May-2015 13:40  1.6K  
+<a href="gpio-clps711x.txt">gpio-clps711x.txt</a>                       29-May-2015 13:40  752   
+<a href="gpio-atlas7.txt">gpio-atlas7.txt</a>                         29-Jun-2015 16:01  1.2K  
+<a href="gpio-ath79.txt">gpio-ath79.txt</a>                          29-Jun-2015 16:01  1.2K  
+<a href="gpio-altera.txt">gpio-altera.txt</a>                         21-Mar-2016 13:00  1.5K  
+<a href="gpio-adnp.txt">gpio-adnp.txt</a>                           29-May-2015 13:40  1.0K  
+<a href="gpio-74xx-mmio.txt">gpio-74xx-mmio.txt</a>                      29-May-2015 13:40  1.0K  
+<a href="gpio-74x164.txt">gpio-74x164.txt</a>                         28-May-2016 15:00  651   
+<a href="fujitsu,mb86s70-gpio.txt">fujitsu,mb86s70-gpio.txt</a>                29-May-2015 13:40  635   
+<a href="fsl-imx-gpio.txt">fsl-imx-gpio.txt</a>                        29-May-2015 13:40  1.2K  
+<a href="cirrus,clps711x-mctrl-gpio.txt">cirrus,clps711x-mctrl-gpio.txt</a>          29-May-2015 13:40  511   
+<a href="cavium-octeon-gpio.txt">cavium-octeon-gpio.txt</a>                  29-May-2015 13:40  1.5K  
+<a href="brcm,kona-gpio.txt">brcm,kona-gpio.txt</a>                      29-May-2015 13:40  2.1K  
+<a href="brcm,brcmstb-gpio.txt">brcm,brcmstb-gpio.txt</a>                   07-Sep-2015 15:00  2.7K  
+<a href="abilis,tb10x-gpio.txt">abilis,tb10x-gpio.txt</a>                   29-May-2015 13:40  1.2K  
+<a href="8xxx_gpio.txt">8xxx_gpio.txt</a>                           29-May-2015 13:40  2.4K  
+<hr></pre>
+</body></html>

@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/interrupt-controller</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/interrupt-controller</h1>
+<pre><a href="index.html?C=N%3BO=A">Name</a>                                    <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="index.html?C=S%3BO=A">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                             -   
+<a href="ti,omap4-wugen-mpu">ti,omap4-wugen-mpu</a>                      28-May-2016 15:00  1.2K  
+<a href="nxp,lpc3220-mic.txt">nxp,lpc3220-mic.txt</a>                     28-May-2016 15:00  1.8K  
+<a href="nvidia,tegra20-ictlr.txt">nvidia,tegra20-ictlr.txt</a>                28-May-2016 15:00  1.5K  
+<a href="mediatek,sysirq.txt">mediatek,sysirq.txt</a>                     28-May-2016 15:00  1.0K  
+<a href="fsl,ls-scfg-msi.txt">fsl,ls-scfg-msi.txt</a>                     28-May-2016 15:00  1.0K  
+<a href="ezchip,nps400-ic.txt">ezchip,nps400-ic.txt</a>                    28-May-2016 15:00  410   
+<a href="brcm,bcm6345-l1-intc.txt">brcm,bcm6345-l1-intc.txt</a>                28-May-2016 15:00  2.0K  
+<a href="brcm,bcm2835-armctrl-ic.txt">brcm,bcm2835-armctrl-ic.txt</a>             28-May-2016 15:00  2.8K  
+<a href="arm,versatile-fpga-irq.txt">arm,versatile-fpga-irq.txt</a>              28-May-2016 15:00  1.5K  
+<a href="arm,gic-v3.txt">arm,gic-v3.txt</a>                          28-May-2016 15:00  4.7K  
+<a href="hisilicon,mbigen-v2.txt">hisilicon,mbigen-v2.txt</a>                 27-Mar-2016 00:00  2.5K  
+<a href="sigma,smp8642-intc.txt">sigma,smp8642-intc.txt</a>                  21-Mar-2016 13:00  1.3K  
+<a href="mips-gic.txt">mips-gic.txt</a>                            21-Mar-2016 13:00  2.3K  
+<a href="marvell,odmi-controller.txt">marvell,odmi-controller.txt</a>             21-Mar-2016 13:00  1.4K  
+<a href="arm,gic.txt">arm,gic.txt</a>                             21-Mar-2016 13:00  5.3K  
+<a href="al,alpine-msix.txt">al,alpine-msix.txt</a>                      21-Mar-2016 13:00  755   
+<a href="microchip,pic32-evic.txt">microchip,pic32-evic.txt</a>                24-Jan-2016 22:00  2.1K  
+<a href="technologic,ts4800.txt">technologic,ts4800.txt</a>                  18-Jan-2016 13:00  696   
+<a href="qca,ath79-misc-intc.txt">qca,ath79-misc-intc.txt</a>                 18-Jan-2016 13:00  1.4K  
+<a href="allwinner,sunxi-nmi.txt">allwinner,sunxi-nmi.txt</a>                 18-Jan-2016 13:00  1.0K  
+<a href="via,vt8500-intc.txt">via,vt8500-intc.txt</a>                     09-Nov-2015 15:00  417   
+<a href="ti,omap2-intc.txt">ti,omap2-intc.txt</a>                       09-Nov-2015 15:00  809   
+<a href="ti,cp-intc.txt">ti,cp-intc.txt</a>                          09-Nov-2015 15:00  844   
+<a href="ti,c64x+megamod-pic.txt">ti,c64x+megamod-pic.txt</a>                 09-Nov-2015 15:00  4.0K  
+<a href="st,spear3xx-shirq.txt">st,spear3xx-shirq.txt</a>                   09-Nov-2015 15:00  1.9K  
+<a href="snps,archs-intc.txt">snps,archs-intc.txt</a>                     09-Nov-2015 15:00  589   
+<a href="snps,archs-idu-intc.txt">snps,archs-idu-intc.txt</a>                 09-Nov-2015 15:00  1.3K  
+<a href="snps,arc700-intc.txt">snps,arc700-intc.txt</a>                    09-Nov-2015 15:00  595   
+<a href="samsung,exynos4210-combiner.txt">samsung,exynos4210-combiner.txt</a>         09-Nov-2015 15:00  2.3K  
+<a href="renesas,irqc.txt">renesas,irqc.txt</a>                        09-Nov-2015 15:00  1.1K  
+<a href="open-pic.txt">open-pic.txt</a>                            09-Nov-2015 15:00  3.1K  
+<a href="mrvl,intc.txt">mrvl,intc.txt</a>                           09-Nov-2015 15:00  2.1K  
+<a href="intel,ce4100-ioapic.txt">intel,ce4100-ioapic.txt</a>                 09-Nov-2015 15:00  617   
+<a href="img,pdc-intc.txt">img,pdc-intc.txt</a>                        09-Nov-2015 15:00  3.2K  
+<a href="img,meta-intc.txt">img,meta-intc.txt</a>                       09-Nov-2015 15:00  2.4K  
+<a href="axis,crisv32-intc.txt">axis,crisv32-intc.txt</a>                   09-Nov-2015 15:00  597   
+<a href="arm,vic.txt">arm,vic.txt</a>                             09-Nov-2015 15:00  1.6K  
+<a href="msi.txt">msi.txt</a>                                 02-Sep-2015 09:00  3.8K  
+<a href="brcm,bcm2836-l1-intc.txt">brcm,bcm2836-l1-intc.txt</a>                02-Sep-2015 09:00  1.0K  
+<a href="renesas,intc-irqpin.txt">renesas,intc-irqpin.txt</a>                 29-Jun-2015 16:01  2.3K  
+<a href="renesas,h8300h-intc.txt">renesas,h8300h-intc.txt</a>                 29-Jun-2015 16:01  608   
+<a href="renesas,h8s-intc.txt">renesas,h8s-intc.txt</a>                    29-Jun-2015 16:01  599   
+<a href="qca,ath79-cpu-intc.txt">qca,ath79-cpu-intc.txt</a>                  29-Jun-2015 16:01  1.4K  
+<a href="ingenic,intc.txt">ingenic,intc.txt</a>                        29-Jun-2015 16:01  827   
+<a href="atmel,aic.txt">atmel,aic.txt</a>                           29-Jun-2015 16:01  1.4K  
+<a href="ti,omap-intc-irq.txt">ti,omap-intc-irq.txt</a>                    29-May-2015 13:40  842   
+<a href="ti,keystone-irq.txt">ti,keystone-irq.txt</a>                     29-May-2015 13:40  1.2K  
+<a href="st,sti-irq-syscfg.txt">st,sti-irq-syscfg.txt</a>                   29-May-2015 13:40  1.3K  
+<a href="snps,dw-apb-ictl.txt">snps,dw-apb-ictl.txt</a>                    29-May-2015 13:40  1.2K  
+<a href="samsung,s3c24xx-irq.txt">samsung,s3c24xx-irq.txt</a>                 29-May-2015 13:40  1.6K  
+<a href="opencores,or1k-pic.txt">opencores,or1k-pic.txt</a>                  29-May-2015 13:40  797   
+<a href="marvell,orion-intc.txt">marvell,orion-intc.txt</a>                  29-May-2015 13:40  1.6K  
+<a href="marvell,armada-370-xp-mpic.txt">marvell,armada-370-xp-mpic.txt</a>          29-May-2015 13:40  1.5K  
+<a href="lsi,zevio-intc.txt">lsi,zevio-intc.txt</a>                      29-May-2015 13:40  424   
+<a href="interrupts.txt">interrupts.txt</a>                          29-May-2015 13:40  3.3K  
+<a href="digicolor-ic.txt">digicolor-ic.txt</a>                        29-May-2015 13:40  641   
+<a href="cirrus,clps711x-intc.txt">cirrus,clps711x-intc.txt</a>                29-May-2015 13:40  1.2K  
+<a href="cdns,xtensa-pic.txt">cdns,xtensa-pic.txt</a>                     29-May-2015 13:40  969   
+<a href="cdns,xtensa-mx.txt">cdns,xtensa-mx.txt</a>                      29-May-2015 13:40  488   
+<a href="brcm,l2-intc.txt">brcm,l2-intc.txt</a>                        29-May-2015 13:40  936   
+<a href="brcm,bcm7120-l2-intc.txt">brcm,bcm7120-l2-intc.txt</a>                29-May-2015 13:40  3.3K  
+<a href="brcm,bcm7038-l1-intc.txt">brcm,bcm7038-l1-intc.txt</a>                29-May-2015 13:40  1.9K  
+<a href="brcm,bcm3380-l2-intc.txt">brcm,bcm3380-l2-intc.txt</a>                29-May-2015 13:40  1.4K  
+<a href="allwinner,sun4i-ic.txt">allwinner,sun4i-ic.txt</a>                  29-May-2015 13:40  520   
+<a href="abilis,tb10x-ictl.txt">abilis,tb10x-ictl.txt</a>                   29-May-2015 13:40  1.3K  
+<hr></pre>
+</body></html>

@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/phy</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/phy</h1>
+<pre><a href="index.html?C=N%3BO=D">Name</a>                                    <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="index.html?C=S%3BO=A">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                             -   
+<a href="apm-xgene-phy.txt">apm-xgene-phy.txt</a>                       29-May-2015 13:40  2.9K  
+<a href="bcm-ns-usb2-phy.txt">bcm-ns-usb2-phy.txt</a>                     28-May-2016 15:00  674   
+<a href="berlin-sata-phy.txt">berlin-sata-phy.txt</a>                     29-May-2015 13:40  728   
+<a href="berlin-usb-phy.txt">berlin-usb-phy.txt</a>                      29-May-2015 13:40  389   
+<a href="brcm,cygnus-pcie-phy.txt">brcm,cygnus-pcie-phy.txt</a>                09-Nov-2015 15:00  801   
+<a href="brcm,kona-usb2-phy.txt">brcm,kona-usb2-phy.txt</a>                  29-May-2015 13:40  347   
+<a href="brcm-sata-phy.txt">brcm-sata-phy.txt</a>                       28-May-2016 15:00  1.1K  
+<a href="calxeda-combophy.txt">calxeda-combophy.txt</a>                    09-Nov-2015 15:00  389   
+<a href="dm816x-phy.txt">dm816x-phy.txt</a>                          29-May-2015 13:40  691   
+<a href="hix5hd2-phy.txt">hix5hd2-phy.txt</a>                         29-May-2015 13:40  700   
+<a href="keystone-usb-phy.txt">keystone-usb-phy.txt</a>                    09-Nov-2015 15:00  684   
+<a href="mxs-usb-phy.txt">mxs-usb-phy.txt</a>                         09-Nov-2015 15:00  678   
+<a href="nvidia,tegra20-usb-phy.txt">nvidia,tegra20-usb-phy.txt</a>              09-Nov-2015 15:00  3.6K  
+<a href="nvidia,tegra124-xusb-padctl.txt">nvidia,tegra124-xusb-padctl.txt</a>         28-May-2016 15:00   15K  
+<a href="phy-ath79-usb.txt">phy-ath79-usb.txt</a>                       24-Jan-2016 22:00  378   
+<a href="phy-bindings.txt">phy-bindings.txt</a>                        29-May-2015 13:40  1.7K  
+<a href="phy-hi6220-usb.txt">phy-hi6220-usb.txt</a>                      18-Jan-2016 13:00  458   
+<a href="phy-lpc18xx-usb-otg.txt">phy-lpc18xx-usb-otg.txt</a>                 28-May-2016 15:00  759   
+<a href="phy-miphy28lp.txt">phy-miphy28lp.txt</a>                       29-May-2015 13:40  3.7K  
+<a href="phy-miphy365x.txt">phy-miphy365x.txt</a>                       29-May-2015 13:40  2.4K  
+<a href="phy-mt65xx-usb.txt">phy-mt65xx-usb.txt</a>                      28-May-2016 15:00  1.8K  
+<a href="phy-mvebu.txt">phy-mvebu.txt</a>                           29-May-2015 13:40  1.2K  
+<a href="phy-stih41x-usb.txt">phy-stih41x-usb.txt</a>                     28-May-2016 15:00  765   
+<a href="phy-stih407-usb.txt">phy-stih407-usb.txt</a>                     29-May-2015 13:40  1.0K  
+<a href="pistachio-usb-phy.txt">pistachio-usb-phy.txt</a>                   29-Jun-2015 16:01  897   
+<a href="pxa1928-usb-phy.txt">pxa1928-usb-phy.txt</a>                     29-Jun-2015 16:01  492   
+<a href="qcom,usb-8x16-phy.txt">qcom,usb-8x16-phy.txt</a>                   09-Nov-2015 15:00  1.9K  
+<a href="qcom-apq8064-sata-phy.txt">qcom-apq8064-sata-phy.txt</a>               29-May-2015 13:40  713   
+<a href="qcom-dwc3-usb-phy.txt">qcom-dwc3-usb-phy.txt</a>                   29-May-2015 13:40  1.1K  
+<a href="qcom-ipq806x-sata-phy.txt">qcom-ipq806x-sata-phy.txt</a>               29-May-2015 13:40  633   
+<a href="rcar-gen2-phy.txt">rcar-gen2-phy.txt</a>                       28-May-2016 15:00  2.1K  
+<a href="rcar-gen3-phy-usb2.txt">rcar-gen3-phy-usb2.txt</a>                  28-May-2016 15:00  1.5K  
+<a href="rockchip-dp-phy.txt">rockchip-dp-phy.txt</a>                     25-Apr-2016 00:00  666   
+<a href="rockchip-emmc-phy.txt">rockchip-emmc-phy.txt</a>                   25-Apr-2016 00:00  466   
+<a href="rockchip-usb-phy.txt">rockchip-usb-phy.txt</a>                    18-Jan-2016 13:00  1.0K  
+<a href="samsung-phy.txt">samsung-phy.txt</a>                         28-May-2016 15:00  6.7K  
+<a href="st-spear-miphy.txt">st-spear-miphy.txt</a>                      29-May-2015 13:40  570   
+<a href="sun4i-usb-phy.txt">sun4i-usb-phy.txt</a>                       18-Jan-2016 13:00  2.0K  
+<a href="sun9i-usb-phy.txt">sun9i-usb-phy.txt</a>                       29-May-2015 13:40  1.2K  
+<a href="ti-phy.txt">ti-phy.txt</a>                              18-Jan-2016 13:00  4.7K  
+<hr></pre>
+</body></html>

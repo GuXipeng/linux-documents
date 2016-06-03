@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/rtc</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/rtc</h1>
+<pre><a href="index.html?C=N%3BO=A">Name</a>                                    <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="index.html?C=S%3BO=A">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                             -   
+<a href="isil,isl12057.txt">isil,isl12057.txt</a>                       09-Nov-2015 15:00  2.3K  
+<a href="s3c-rtc.txt">s3c-rtc.txt</a>                             25-Apr-2016 00:00  1.4K  
+<a href="rtc-palmas.txt">rtc-palmas.txt</a>                          28-May-2016 15:00  1.1K  
+<a href="maxim-ds1302.txt">maxim-ds1302.txt</a>                        28-May-2016 15:00  1.1K  
+<a href="rtc-omap.txt">rtc-omap.txt</a>                            13-Sep-2015 00:00  1.1K  
+<a href="abracon,abx80x.txt">abracon,abx80x.txt</a>                      29-May-2015 13:40  1.0K  
+<a href="dw-apb.txt">dw-apb.txt</a>                              29-May-2015 13:40  965   
+<a href="rtc-st-lpc.txt">rtc-st-lpc.txt</a>                          07-Sep-2015 15:00  939   
+<a href="rtc-cmos.txt">rtc-cmos.txt</a>                            29-May-2015 13:40  859   
+<a href="maxim,ds3231.txt">maxim,ds3231.txt</a>                        21-Mar-2016 13:00  806   
+<a href="epson,rx6110.txt">epson,rx6110.txt</a>                        21-Mar-2016 13:00  783   
+<a href="nvidia,tegra20-rtc.txt">nvidia,tegra20-rtc.txt</a>                  29-May-2015 13:40  767   
+<a href="atmel,at91sam9-rtc.txt">atmel,at91sam9-rtc.txt</a>                  29-May-2015 13:40  754   
+<a href="xlnx-rtc.txt">xlnx-rtc.txt</a>                            13-Sep-2015 00:00  738   
+<a href="rtc-mxc.txt">rtc-mxc.txt</a>                             02-Sep-2015 09:00  678   
+<a href="nxp,lpc1788-rtc.txt">nxp,lpc1788-rtc.txt</a>                     13-Sep-2015 00:00  675   
+<a href="xgene-rtc.txt">xgene-rtc.txt</a>                           29-May-2015 13:40  642   
+<a href="ti,bq32k.txt">ti,bq32k.txt</a>                            13-Sep-2015 00:00  640   
+<a href="microchip,pic32-rtc.txt">microchip,pic32-rtc.txt</a>                 21-Mar-2016 13:00  612   
+<a href="armada-380-rtc.txt">armada-380-rtc.txt</a>                      29-May-2015 13:40  611   
+<a href="dallas,ds1339.txt">dallas,ds1339.txt</a>                       29-May-2015 13:40  576   
+<a href="dallas,ds1390.txt">dallas,ds1390.txt</a>                       16-Nov-2015 02:00  573   
+<a href="stmp3xxx-rtc.txt">stmp3xxx-rtc.txt</a>                        29-May-2015 13:40  565   
+<a href="haoyu,hym8563.txt">haoyu,hym8563.txt</a>                       29-Jun-2015 16:01  565   
+<a href="sa1100-rtc.txt">sa1100-rtc.txt</a>                          28-May-2016 15:00  540   
+<a href="alphascale,asm9260-rtc.txt">alphascale,asm9260-rtc.txt</a>              21-Mar-2016 13:00  515   
+<a href="pcf8563.txt">pcf8563.txt</a>                             16-Nov-2015 02:00  447   
+<a href="sun6i-rtc.txt">sun6i-rtc.txt</a>                           29-May-2015 13:40  432   
+<a href="atmel,at91rm9200-rtc.txt">atmel,at91rm9200-rtc.txt</a>                02-Sep-2015 09:00  426   
+<a href="spear-rtc.txt">spear-rtc.txt</a>                           29-May-2015 13:40  422   
+<a href="orion-rtc.txt">orion-rtc.txt</a>                           29-May-2015 13:40  422   
+<a href="sunxi-rtc.txt">sunxi-rtc.txt</a>                           29-May-2015 13:40  416   
+<a href="imxdi-rtc.txt">imxdi-rtc.txt</a>                           29-May-2015 13:40  400   
+<a href="moxa,moxart-rtc.txt">moxa,moxart-rtc.txt</a>                     29-May-2015 13:40  395   
+<a href="digicolor-rtc.txt">digicolor-rtc.txt</a>                       29-May-2015 13:40  394   
+<a href="via,vt8500-rtc.txt">via,vt8500-rtc.txt</a>                      29-May-2015 13:40  364   
+<a href="rtc-opal.txt">rtc-opal.txt</a>                            09-Nov-2015 15:00  362   
+<a href="lpc32xx-rtc.txt">lpc32xx-rtc.txt</a>                         29-May-2015 13:40  341   
+<a href="nxp,rtc-2123.txt">nxp,rtc-2123.txt</a>                        29-May-2015 13:40  310   
+<a href="maxim,ds1742.txt">maxim,ds1742.txt</a>                        29-May-2015 13:40  286   
+<a href="pxa-rtc.txt">pxa-rtc.txt</a>                             29-May-2015 13:40  213   
+<a href="maxim,mcp795.txt">maxim,mcp795.txt</a>                        27-Mar-2016 00:00  213   
+<a href="twl-rtc.txt">twl-rtc.txt</a>                             29-May-2015 13:40  177   
+<a href="olpc-xo1-rtc.txt">olpc-xo1-rtc.txt</a>                        29-May-2015 13:40   81   
+<a href="snvs-rtc.txt">snvs-rtc.txt</a>                            29-May-2015 13:40   71   
+<hr></pre>
+</body></html>

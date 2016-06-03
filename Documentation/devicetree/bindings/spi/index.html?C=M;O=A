@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/spi</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/spi</h1>
+<pre><a href="index.html?C=N%3BO=A">Name</a>                                    <a href="index.html?C=M%3BO=D">Last modified</a>      <a href="index.html?C=S%3BO=A">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                             -   
+<a href="brcm,bcm2835-spi.txt">brcm,bcm2835-spi.txt</a>                    29-May-2015 13:40  626   
+<a href="efm32-spi.txt">efm32-spi.txt</a>                           29-May-2015 13:40  1.2K  
+<a href="fsl-imx-cspi.txt">fsl-imx-cspi.txt</a>                        29-May-2015 13:40  1.5K  
+<a href="fsl-spi.txt">fsl-spi.txt</a>                             29-May-2015 13:40  1.9K  
+<a href="mxs-spi.txt">mxs-spi.txt</a>                             29-May-2015 13:40  734   
+<a href="nvidia,tegra20-sflash.txt">nvidia,tegra20-sflash.txt</a>               29-May-2015 13:40  1.1K  
+<a href="nvidia,tegra20-slink.txt">nvidia,tegra20-slink.txt</a>                29-May-2015 13:40  1.1K  
+<a href="nvidia,tegra114-spi.txt">nvidia,tegra114-spi.txt</a>                 29-May-2015 13:40  1.3K  
+<a href="omap-spi.txt">omap-spi.txt</a>                            29-May-2015 13:40  1.3K  
+<a href="qcom,spi-qup.txt">qcom,spi-qup.txt</a>                        29-May-2015 13:40  3.1K  
+<a href="sh-hspi.txt">sh-hspi.txt</a>                             29-May-2015 13:40  888   
+<a href="spi-cadence.txt">spi-cadence.txt</a>                         29-May-2015 13:40  1.0K  
+<a href="spi-dw.txt">spi-dw.txt</a>                              29-May-2015 13:40  546   
+<a href="spi-gpio.txt">spi-gpio.txt</a>                            29-May-2015 13:40  765   
+<a href="spi-meson.txt">spi-meson.txt</a>                           29-May-2015 13:40  632   
+<a href="spi-octeon.txt">spi-octeon.txt</a>                          29-May-2015 13:40  763   
+<a href="spi-rspi.txt">spi-rspi.txt</a>                            29-May-2015 13:40  2.6K  
+<a href="spi-samsung.txt">spi-samsung.txt</a>                         29-May-2015 13:40  2.9K  
+<a href="spi-sc18is602.txt">spi-sc18is602.txt</a>                       29-May-2015 13:40  533   
+<a href="spi-st-ssc.txt">spi-st-ssc.txt</a>                          29-May-2015 13:40  1.1K  
+<a href="spi-sun4i.txt">spi-sun4i.txt</a>                           29-May-2015 13:40  675   
+<a href="spi-sun6i.txt">spi-sun6i.txt</a>                           29-May-2015 13:40  725   
+<a href="spi-xtensa-xtfpga.txt">spi-xtensa-xtfpga.txt</a>                   29-May-2015 13:40  314   
+<a href="spi_altera.txt">spi_altera.txt</a>                          29-May-2015 13:40  128   
+<a href="spi_oc_tiny.txt">spi_oc_tiny.txt</a>                         29-May-2015 13:40  462   
+<a href="spi-orion.txt">spi-orion.txt</a>                           29-Jun-2015 16:01  872   
+<a href="spi-sirf.txt">spi-sirf.txt</a>                            29-Jun-2015 16:01  1.3K  
+<a href="spi-zynqmp-qspi.txt">spi-zynqmp-qspi.txt</a>                     29-Jun-2015 16:01  905   
+<a href="spi_atmel.txt">spi_atmel.txt</a>                           29-Jun-2015 16:01  971   
+<a href="spi_pl022.txt">spi_pl022.txt</a>                           29-Jun-2015 16:01  2.3K  
+<a href="spi-ath79.txt">spi-ath79.txt</a>                           03-Aug-2015 02:00  649   
+<a href="snps,dw-apb-ssi.txt">snps,dw-apb-ssi.txt</a>                     02-Sep-2015 09:00  897   
+<a href="spi-davinci.txt">spi-davinci.txt</a>                         02-Sep-2015 09:00  3.0K  
+<a href="spi-img-spfi.txt">spi-img-spfi.txt</a>                        02-Sep-2015 09:00  1.2K  
+<a href="spi-xlp.txt">spi-xlp.txt</a>                             02-Sep-2015 09:00  1.2K  
+<a href="brcm,bcm2835-aux-spi.txt">brcm,bcm2835-aux-spi.txt</a>                09-Nov-2015 15:00  1.2K  
+<a href="sh-msiof.txt">sh-msiof.txt</a>                            18-Jan-2016 13:00  2.6K  
+<a href="spi-mt65xx.txt">spi-mt65xx.txt</a>                          18-Jan-2016 13:00  2.0K  
+<a href="adi,axi-spi-engine.txt">adi,axi-spi-engine.txt</a>                  21-Mar-2016 13:00  955   
+<a href="icpdas-lp8841-spi-rtc.txt">icpdas-lp8841-spi-rtc.txt</a>               21-Mar-2016 13:00  1.3K  
+<a href="spi-bus.txt">spi-bus.txt</a>                             21-Mar-2016 13:00  3.7K  
+<a href="spi-rockchip.txt">spi-rockchip.txt</a>                        21-Mar-2016 13:00  1.6K  
+<a href="spi-xilinx.txt">spi-xilinx.txt</a>                          21-Mar-2016 13:00  650   
+<a href="microchip,spi-pic32.txt">microchip,spi-pic32.txt</a>                 28-May-2016 15:00  1.3K  
+<a href="spi-fsl-dspi.txt">spi-fsl-dspi.txt</a>                        28-May-2016 15:00  1.7K  
+<a href="sqi-pic32.txt">sqi-pic32.txt</a>                           28-May-2016 15:00  680   
+<a href="ti_qspi.txt">ti_qspi.txt</a>                             28-May-2016 15:00  1.7K  
+<hr></pre>
+</body></html>

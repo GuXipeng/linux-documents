@@ -1,0 +1,22 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/hwmon</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/hwmon</h1>
+<pre><a href="index.html?C=N%3BO=A">Name</a>                                    <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="index.html?C=S%3BO=D">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                             -   
+<a href="lm70.txt">lm70.txt</a>                                02-Sep-2015 09:00  355   
+<a href="ina2xx.txt">ina2xx.txt</a>                              09-Nov-2015 15:00  402   
+<a href="ibmpowernv.txt">ibmpowernv.txt</a>                          29-May-2015 13:40  564   
+<a href="vexpress.txt">vexpress.txt</a>                            29-May-2015 13:40  577   
+<a href="nsa320-mcu.txt">nsa320-mcu.txt</a>                          21-Mar-2016 13:00  649   
+<a href="pwm-fan.txt">pwm-fan.txt</a>                             16-Nov-2015 02:00  938   
+<a href="lm90.txt">lm90.txt</a>                                29-May-2015 13:40  1.0K  
+<a href="ltc2978.txt">ltc2978.txt</a>                             28-May-2016 15:00  1.1K  
+<a href="ntc_thermistor.txt">ntc_thermistor.txt</a>                      21-Mar-2016 13:00  1.1K  
+<a href="g762.txt">g762.txt</a>                                29-May-2015 13:40  1.3K  
+<a href="ads1015.txt">ads1015.txt</a>                             29-May-2015 13:40  1.6K  
+<a href="max6697.txt">max6697.txt</a>                             13-Sep-2015 00:00  1.9K  
+<hr></pre>
+</body></html>

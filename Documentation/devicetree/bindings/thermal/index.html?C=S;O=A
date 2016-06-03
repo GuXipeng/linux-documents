@@ -1,0 +1,29 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/thermal</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/thermal</h1>
+<pre><a href="index.html?C=N%3BO=A">Name</a>                                    <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="index.html?C=S%3BO=D">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                             -   
+<a href="spear-thermal.txt">spear-thermal.txt</a>                       29-May-2015 13:40  313   
+<a href="kirkwood-thermal.txt">kirkwood-thermal.txt</a>                    29-May-2015 13:40  330   
+<a href="tango-thermal.txt">tango-thermal.txt</a>                       28-May-2016 15:00  429   
+<a href="dove-thermal.txt">dove-thermal.txt</a>                        29-May-2015 13:40  465   
+<a href="armada-thermal.txt">armada-thermal.txt</a>                      29-May-2015 13:40  654   
+<a href="hisilicon-thermal.txt">hisilicon-thermal.txt</a>                   29-Jun-2015 16:01  732   
+<a href="imx-thermal.txt">imx-thermal.txt</a>                         29-May-2015 13:40  922   
+<a href="st-thermal.txt">st-thermal.txt</a>                          29-May-2015 13:40  1.4K  
+<a href="db8500-thermal.txt">db8500-thermal.txt</a>                      29-May-2015 13:40  1.4K  
+<a href="qcom-spmi-temp-alarm.txt">qcom-spmi-temp-alarm.txt</a>                29-Jun-2015 16:01  1.5K  
+<a href="rcar-thermal.txt">rcar-thermal.txt</a>                        28-May-2016 15:00  1.7K  
+<a href="mediatek-thermal.txt">mediatek-thermal.txt</a>                    27-Mar-2016 00:00  1.8K  
+<a href="qoriq-thermal.txt">qoriq-thermal.txt</a>                       18-Jan-2016 13:00  2.0K  
+<a href="ti_soc_thermal.txt">ti_soc_thermal.txt</a>                      16-Nov-2015 02:00  2.2K  
+<a href="nvidia,tegra124-soctherm.txt">nvidia,tegra124-soctherm.txt</a>            28-May-2016 15:00  2.2K  
+<a href="thermal-generic-adc.txt">thermal-generic-adc.txt</a>                 28-May-2016 15:00  2.2K  
+<a href="rockchip-thermal.txt">rockchip-thermal.txt</a>                    24-Jan-2016 22:00  2.6K  
+<a href="exynos-thermal.txt">exynos-thermal.txt</a>                      27-Mar-2016 00:00  4.7K  
+<a href="thermal.txt">thermal.txt</a>                             27-Sep-2015 12:00   19K  
+<hr></pre>
+</body></html>

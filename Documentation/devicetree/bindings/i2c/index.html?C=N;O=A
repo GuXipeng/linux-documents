@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /doc/Documentation/devicetree/bindings/i2c</title>
+ </head>
+ <body>
+<h1>Index of /doc/Documentation/devicetree/bindings/i2c</h1>
+<pre><a href="index.html?C=N%3BO=D">Name</a>                                    <a href="index.html?C=M%3BO=A">Last modified</a>      <a href="index.html?C=S%3BO=A">Size</a>  <hr><a href="../index.html">Parent Directory</a>                                             -   
+<a href="brcm,bcm2835-i2c.txt">brcm,bcm2835-i2c.txt</a>                    29-May-2015 13:40  488   
+<a href="brcm,iproc-i2c.txt">brcm,iproc-i2c.txt</a>                      29-May-2015 13:40  719   
+<a href="brcm,kona-i2c.txt">brcm,kona-i2c.txt</a>                       29-May-2015 13:40  873   
+<a href="i2c-arb-gpio-challenge.txt">i2c-arb-gpio-challenge.txt</a>              29-May-2015 13:40  2.9K  
+<a href="i2c-at91.txt">i2c-at91.txt</a>                            18-Jan-2016 13:00  1.7K  
+<a href="i2c-axxia.txt">i2c-axxia.txt</a>                           29-May-2015 13:40  856   
+<a href="i2c-brcmstb.txt">i2c-brcmstb.txt</a>                         18-Jan-2016 13:00  841   
+<a href="i2c-cadence.txt">i2c-cadence.txt</a>                         13-Sep-2015 00:00  928   
+<a href="i2c-cbus-gpio.txt">i2c-cbus-gpio.txt</a>                       29-May-2015 13:40  486   
+<a href="i2c-cros-ec-tunnel.txt">i2c-cros-ec-tunnel.txt</a>                  29-May-2015 13:40  1.0K  
+<a href="i2c-davinci.txt">i2c-davinci.txt</a>                         16-Nov-2015 02:00  890   
+<a href="i2c-demux-pinctrl.txt">i2c-demux-pinctrl.txt</a>                   27-Mar-2016 00:00  3.3K  
+<a href="i2c-designware.txt">i2c-designware.txt</a>                      29-May-2015 13:40  1.3K  
+<a href="i2c-digicolor.txt">i2c-digicolor.txt</a>                       29-May-2015 13:40  666   
+<a href="i2c-efm32.txt">i2c-efm32.txt</a>                           29-May-2015 13:40  810   
+<a href="i2c-emev2.txt">i2c-emev2.txt</a>                           13-Sep-2015 00:00  640   
+<a href="i2c-exynos5.txt">i2c-exynos5.txt</a>                         29-May-2015 13:40  1.6K  
+<a href="i2c-gpio.txt">i2c-gpio.txt</a>                            29-May-2015 13:40  720   
+<a href="i2c-hix5hd2.txt">i2c-hix5hd2.txt</a>                         29-May-2015 13:40  670   
+<a href="i2c-img-scb.txt">i2c-img-scb.txt</a>                         29-May-2015 13:40  814   
+<a href="i2c-imx.txt">i2c-imx.txt</a>                             27-Mar-2016 00:00  1.7K  
+<a href="i2c-jz4780.txt">i2c-jz4780.txt</a>                          29-May-2015 13:40  909   
+<a href="i2c-lpc2k.txt">i2c-lpc2k.txt</a>                           13-Sep-2015 00:00  751   
+<a href="i2c-meson.txt">i2c-meson.txt</a>                           29-May-2015 13:40  632   
+<a href="i2c-mpc.txt">i2c-mpc.txt</a>                             29-May-2015 13:40  1.8K  
+<a href="i2c-mt6577.txt">i2c-mt6577.txt</a>                          29-Jun-2015 16:01  1.5K  
+<a href="i2c-mux-gpio.txt">i2c-mux-gpio.txt</a>                        29-May-2015 13:40  2.5K  
+<a href="i2c-mux-pca954x.txt">i2c-mux-pca954x.txt</a>                     29-May-2015 13:40  1.2K  
+<a href="i2c-mux-pinctrl.txt">i2c-mux-pinctrl.txt</a>                     29-May-2015 13:40  2.8K  
+<a href="i2c-mux-reg.txt">i2c-mux-reg.txt</a>                         13-Sep-2015 00:00  2.4K  
+<a href="i2c-mux.txt">i2c-mux.txt</a>                             29-May-2015 13:40  1.2K  
+<a href="i2c-mv64xxx.txt">i2c-mv64xxx.txt</a>                         29-May-2015 13:40  1.3K  
+<a href="i2c-mxs.txt">i2c-mxs.txt</a>                             29-May-2015 13:40  743   
+<a href="i2c-nomadik.txt">i2c-nomadik.txt</a>                         29-May-2015 13:40  521   
+<a href="i2c-ocores.txt">i2c-ocores.txt</a>                          29-May-2015 13:40  2.4K  
+<a href="i2c-octeon.txt">i2c-octeon.txt</a>                          28-May-2016 15:00  839   
+<a href="i2c-omap.txt">i2c-omap.txt</a>                            29-May-2015 13:40  897   
+<a href="i2c-opal.txt">i2c-opal.txt</a>                            29-May-2015 13:40  1.2K  
+<a href="i2c-pnx.txt">i2c-pnx.txt</a>                             29-May-2015 13:40  878   
+<a href="i2c-pxa-pci-ce4100.txt">i2c-pxa-pci-ce4100.txt</a>                  29-May-2015 13:40  2.7K  
+<a href="i2c-pxa.txt">i2c-pxa.txt</a>                             29-May-2015 13:40  1.0K  
+<a href="i2c-rcar.txt">i2c-rcar.txt</a>                            28-May-2016 15:00  1.1K  
+<a href="i2c-riic.txt">i2c-riic.txt</a>                            29-May-2015 13:40  962   
+<a href="i2c-rk3x.txt">i2c-rk3x.txt</a>                            28-Apr-2016 15:00  1.8K  
+<a href="i2c-s3c2410.txt">i2c-s3c2410.txt</a>                         29-May-2015 13:40  2.3K  
+<a href="i2c-sh_mobile.txt">i2c-sh_mobile.txt</a>                       16-Nov-2015 02:00  1.4K  
+<a href="i2c-sirf.txt">i2c-sirf.txt</a>                            27-Mar-2016 00:00  522   
+<a href="i2c-st-ddci2c.txt">i2c-st-ddci2c.txt</a>                       29-May-2015 13:40  341   
+<a href="i2c-st.txt">i2c-st.txt</a>                              29-May-2015 13:40  1.5K  
+<a href="i2c-sunxi-p2wi.txt">i2c-sunxi-p2wi.txt</a>                      29-May-2015 13:40  1.1K  
+<a href="i2c-uniphier-f.txt">i2c-uniphier-f.txt</a>                      16-Nov-2015 02:00  698   
+<a href="i2c-uniphier.txt">i2c-uniphier.txt</a>                        16-Nov-2015 02:00  693   
+<a href="i2c-versatile.txt">i2c-versatile.txt</a>                       29-May-2015 13:40  225   
+<a href="i2c-vt8500.txt">i2c-vt8500.txt</a>                          29-May-2015 13:40  607   
+<a href="i2c-xgene-slimpro.txt">i2c-xgene-slimpro.txt</a>                   29-Jun-2015 16:01  387   
+<a href="i2c-xiic.txt">i2c-xiic.txt</a>                            27-Mar-2016 00:00  601   
+<a href="i2c-xlp9xx.txt">i2c-xlp9xx.txt</a>                          29-May-2015 13:40  616   
+<a href="i2c.txt">i2c.txt</a>                                 18-Jan-2016 13:00  2.5K  
+<a href="nvidia,tegra20-i2c.txt">nvidia,tegra20-i2c.txt</a>                  29-May-2015 13:40  3.3K  
+<a href="qcom,i2c-qup.txt">qcom,i2c-qup.txt</a>                        29-May-2015 13:40  1.1K  
+<a href="trivial-devices.txt">trivial-devices.txt</a>                     18-Jan-2016 13:00  5.3K  
+<hr></pre>
+</body></html>
